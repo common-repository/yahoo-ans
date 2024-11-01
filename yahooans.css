@@ -1,0 +1,17 @@
+#yahooans_ul_id{
+    background-color:#006699;
+    padding:5px;
+    color:#ffffff;
+    margin-top:2px;
+}
+.yahooans_li{
+    padding:2px;
+    background-color:#0099CC;
+}
+.yahooans_i{
+    font-size:10px;
+    cursor:pointer
+}
+.js_chosen_ans{
+    display:none;
+}
